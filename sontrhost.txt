@@ -6,7 +6,9 @@
 ! ---------- Generic Blocking Rules ----------
 
 !---------------Element Hiding--------------
-radiotruyen.me##div:nth-child(3)
+radiotruyen.me##div:nth-child(3) > p:last-child
+radiotruyen.me##div:nth-child(3) > p:nth-child(2)
+radiotruyen.me##div:nth-child(3) > p:first-child
 
 !---------------ABPVN White List--------------------
 !--------Element Hiding Exception--------------
