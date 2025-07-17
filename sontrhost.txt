@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Title: Sontr Custom List
+!
+! Sontr Custom List filter
+
+! ---------- Generic Blocking Rules ----------
+
+!---------------Element Hiding--------------
+radiotruyen.me##div:nth-child(3)
+
+!---------------ABPVN White List--------------------
+!--------Element Hiding Exception--------------
+!---------- ABPVN Adult Element Hide ---------------
